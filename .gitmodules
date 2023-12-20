@@ -1,4 +1,4 @@
-[submodule "newCodeBase"]
-	path = newCodeBase
+[submodule "public"]
+	path = public
 	url = https://github.com/DSucceed/blog.git
 	branch = main
