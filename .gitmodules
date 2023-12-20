@@ -2,3 +2,11 @@
 	path = public
 	url = https://github.com/DSucceed/blog.git
 	branch = main
+[submodule "blog"]
+	path = blog
+	url = https://github.com/DSucceed/blog.git
+	branch = main
+[submodule "new_submodule_name"]
+	path = new_submodule_name
+	url = https://github.com/DSucceed/blog.git
+	branch = main
